@@ -1,0 +1,18 @@
+var excludeCharacters = [
+{"scenario":"1", "exclude":["jason", "claire", "lisa", "peter", "jane"]},
+{"scenario":"2", "exclude":["jane", "paul"]},
+{"scenario":"3", "exclude":["mike", "mary", "paul", "peter", "jane"]},
+{"scenario":"4", "exclude":["mike", "mary", "paul", "lisa", "jane"]},
+{"scenario":"5", "exclude":["mike", "mary", "paul", "peter", "jane"]},
+{"scenario":"6", "exclude":["peter", "lisa"]},
+{"scenario":"7", "exclude":["mike", "mary", "paul", "lisa", "jane"]},
+{"scenario":"8", "exclude":["mike", "mary", "paul", "peter", "jane"]},
+{"scenario":"9", "exclude":["jason", "claire", "lisa", "peter", "paul"]},
+{"scenario":"10", "exclude":["jason", "claire", "lisa", "peter", "jane"]},
+{"scenario":"11", "exclude":["mike", "mary", "paul", "peter", "jane"]},
+{"scenario":"12", "exclude":["mike", "mary", "paul", "lisa", "jane"]},
+{"scenario":"13", "exclude":["peter", "lisa"]},
+{"scenario":"14", "exclude":["jane", "paul"]},
+{"scenario":"15", "exclude":["mike", "mary", "paul", "lisa", "jane"]},
+{"scenario":"16", "exclude":["jason", "claire", "lisa", "peter", "paul"]}
+];

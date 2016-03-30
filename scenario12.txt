@@ -1,0 +1,5 @@
+Jason is an 8 years old child. Peter is his father, and Lisa is his mother. <br> <br>
+
+Lisa has a meeting (between 2pm and 4pm) and she does not want to be interrupted during that time. But Jason does not know that, and he might share a few check-ins with her during that time. <br> <br> 
+
+You are <u>Peter</u>. Use the menu below to construct an agreement to ensure that Jason does not share his location with Lisa during her meeting.

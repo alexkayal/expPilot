@@ -1,0 +1,6 @@
+Mary and Jason are both 8 years old children. <br> <br>
+
+Mary and Jason go to the same school. Jason therefore does not need to be notified if Mary arrives at school. But Mary checks in when she arrives at school every day.
+ <br> <br> 
+
+You are <u>Mary</u>. Use the menu below to construct an agreement to ensure that Jason is not notified of your check-ins if he’s at school.

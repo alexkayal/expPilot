@@ -1,0 +1,7 @@
+<b><i>This is an example scenario for you to practice. Your answers here will not be recorded, and the real tasks will start after this one.</b></i> <br><br>
+
+Mary is an 8 years old child. Paul is her father. <br> <br>
+
+Mary is going to school on her own, and Paul wants to find out when she arrives there. <br> <br> 
+
+You are <u>Paul</u>. Use the menu below to construct an agreement to find out when Mary arrives at school.

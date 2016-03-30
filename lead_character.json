@@ -1,0 +1,18 @@
+var leadCharacter = [
+{"scenario":"1", "lead":"paul"},
+{"scenario":"2", "lead":"jason"},
+{"scenario":"3", "lead":"lisa"},
+{"scenario":"4", "lead":"peter"},
+{"scenario":"5", "lead":"lisa"},
+{"scenario":"6", "lead":"mary"},
+{"scenario":"7", "lead":"peter"},
+{"scenario":"8", "lead":"lisa"},
+{"scenario":"9", "lead":"jane"},
+{"scenario":"10", "lead":"paul"},
+{"scenario":"11", "lead":"lisa"},
+{"scenario":"12", "lead":"peter"},
+{"scenario":"13", "lead":"mary"},
+{"scenario":"14", "lead":"jason"},
+{"scenario":"15", "lead":"peter"},
+{"scenario":"16", "lead":"jane"}
+];

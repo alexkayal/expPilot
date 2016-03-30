@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta charset=utf-8>
+                      
+  <link rel="stylesheet" href="dropdown.css" />
+  <title>Scenarios</title>
+  <link href="test.css" rel="stylesheet" type="text/css" />
+  <link href="slider.css" rel="stylesheet" type="text/css" />
+  <link href="http://wvega.github.io/timepicker/resources/jquery-timepicker/jquery.timepicker.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/flick/jquery-ui.css">
+
+  <link rel="stylesheet" href="jquery-ui-slider-pips.css">
+
+
+  <script type="text/javascript" src="lead_character.json"></script>
+  <script type="text/javascript" src="exclude_character.json"></script>
+
+  <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+  
+
+                
+<script src="https://code.jquery.com/jquery-2.1.1.js"></script>
+<script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+
+  <script type="text/javascript" src="cookies.js"></script>
+  <script type="text/javascript" src="scenario.js"></script>
+  <script type="text/javascript" src="slider.js"></script>
+  <script type="text/javascript" src="jquery-ui-slider-pips.js"></script>
+  <script src="http://gregfranko.com/jquery.selectBoxIt.js/js/jquery.selectBoxIt.min.js"></script>
+
+  <script type="text/javascript" src="http://wvega.github.io/timepicker/resources/jquery-timepicker/jquery.timepicker.min.js"></script>
+</head>
+
+<body>
+
+
+<table width="700" border="0" cellpadding="20" bgcolor="#FFFFEE">
+  <tr>
+    <td>
+    <nav style="float: right;"> <a href="https://www.youtube.com/watch?v=kC8YIWGlE6k" target="_blank">Watch video again</a> | <a href="textinstructions.html" target="_blank">View video script as text</a></nav>
+    <br><nav style="float: right;"> (both open in a new tab) </nav>
+          <script>
+            document.write ("<h1>Scenario #");
+            document.write (x);
+            document.write ("</h1>");
+          </script>
+      <hr />
+      
+      <nump1> <div id="container"></div></nump1>
+      <br /><br /><hr />
+      <p>
+        <form id="target">
+          <nump> I want </nump>
+          <nump id="spinner1nump">
+          <select name="spinner1" id="spinner1">
+            <option value="select">Select...</option>
+            <option value="paul">Paul</option>
+            <option value="mary">Mary</option>
+            <option value="jason">Jason</option>
+            <option value="lisa">Lisa</option>
+            <option value="peter">Peter</option>
+            <option value="jane">Jane</option>
+            <option value="mike">Mike</option>
+            <option value="claire">Claire</option>-->
+          </select>
+         </nump>
+          <nump> to </nump>
+          <select name="spinner2" id="spinner2">
+            <option value="select">Select...</option>
+            <option value="share">share</option>
+            <option value="not share">not share</option>
+            <option value="receive">receive</option>
+            <option value="not receive">not receive</option>
+          </select>
+          <nump> check-ins</nump>
+          <br><br>
+          <nump id="with"> with </nump>
+          <nump id="spinner3nump">
+          <select name="spinner3" id="spinner3">
+            <option value="select">Select...</option>
+            <option value="me">me</option>
+            <option value="paul">Paul</option>
+            <option value="mary">Mary</option>
+            <option value="jason">Jason</option>
+            <option value="lisa">Lisa</option>
+            <option value="peter">Peter</option>
+            <option value="jane">Jane</option>
+            <option value="mike">Mike</option>
+            <option value="claire">Claire</option> 
+            <option value="family">family</option>
+            <option value="friends">friends</option>
+            <option value="others">others</option>
+            <option value="everyone">everyone</option>
+          </select>
+          </nump>
+         <nump id="timePlace"> if </nump>
+        
+         <nump id="spinnerTimePicker">
+          <select name="spinner4" id="spinner4">
+            <option value="select">Select...</option>
+            <option value="share">Time</option>
+            <option value="not share">Place</option>
+          </select>
+          </nump>
+          <nump id="timepicker1"></nump>
+          <nump id="and"></nump>
+          <nump id="timepicker2"></nump>
+
+          <input id="switchTimePlace" hidden="true" class="switchTimePlace" name="btnSwitch" type="button" onclick="switchTimePlaceValue(this)" value="Time"  />
+          <br><br>
+          <input id="btnNext" class="btnNext" name="btnSubmit" type="submit" onclick=" return nextScenario()" value="Next" style="float: right;" />
+        </form>
+          
+    </p></td>
+  </tr>
+</table>
+
+      
+  <table id="table2" width="700" border="0" cellpadding="20" > 
+	 <tr>
+		  <td>
+        <p> 
+          <form id="dynmaicform"/>
+        </p>
+		  </td>
+	 </tr>
+  </table>
+  <p><img src="TUDelft_350.png" width="80" height="38" /></p>
+</body>
+</html>

@@ -1,0 +1,6 @@
+Jason is an 8 years old child. Lisa is his mother.  <br> <br>
+
+Jason does not want to bother his mom with too much check-ins.
+For example, Jason is going on a school trip (between 10am and 3pm) and he is going to check-in in every place they go. <br> <br> 
+
+You are <u>Jason</u>. Use the menu below to construct an agreement to ensure that Lisa is not notified of your location during that school trip.

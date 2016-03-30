@@ -1,0 +1,5 @@
+Mary is an 8 years old child. Jane is her mother.  <br> <br>
+
+Jane wants Mary’s grades at school to improve. But Mary is easily distracted by all the notifications on her smart phone during the time where she’s supposed to do her homework (between 6:30pm and 8pm). <br> <br> 
+
+You are <u>Jane</u>. Use the menu below to construct an agreement to ensure that Mary does not receive notifications from her friends during the time where she’s supposed to do her homework.

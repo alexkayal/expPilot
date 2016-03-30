@@ -1,0 +1,5 @@
+Mary is an 8 years old child. Jane is her mother.  <br> <br>
+
+Jane does not want to be notified every time Mary comes home. But Mary checks-in and informs everybody when she comes home. <br> <br>
+
+You are <u>Jane</u>. Use the menu below to construct an agreement to ensure that Mary does not notify you when she arrives home.

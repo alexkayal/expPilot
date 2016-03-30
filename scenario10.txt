@@ -1,0 +1,5 @@
+Mary is an 8 years old child. Paul is her father. <br> <br>
+
+Paul has a meeting between 10am and 12pm, and will be very busy during that time. But Mary checks-in frequently all day long, and shares with everybody. <br> <br> 
+
+You are <u>Paul</u>. Use the menu below to construct an agreement to ensure that Mary does not notify you with her location during your meeting. 

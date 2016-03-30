@@ -1,0 +1,5 @@
+Jason is an 8 years old child. Lisa is his mother, and Peter is his father.  <br> <br>
+
+Peter wants to pick Jason from day care when he’s done with work. Peter is going to be late, but Lisa agrees to pick Jason up instead. <br> <br> 
+
+You are <u>Peter</u>. Use the menu below to construct an agreement to ensure that Jason finds out when Lisa arrives to pick him up.
